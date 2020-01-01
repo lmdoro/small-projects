@@ -1,6 +1,4 @@
 # Tic Tac Toe game
-# Two players
-# Same machine
 
 from tkinter import *
 from tkinter import messagebox
