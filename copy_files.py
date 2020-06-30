@@ -9,7 +9,7 @@ import os
 import shutil
 
 
-SRC = "/mnt/f/Pictures/test"
+SRC = "/mnt/f/Pictures/source"
 TARGET = "/mnt/f/Pictures/target"
 
 '''
